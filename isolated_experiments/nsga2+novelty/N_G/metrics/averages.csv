@@ -1,2 +1,2 @@
 global_coverage,n_rules,average_crowding_distance,average_error,overlap_mean_jaccard,overlap_redundancy,overlap_gini_coverage,coverage_mean,coverage_p50,coverage_p90,coverage_max
-0.7632000000000001,16.0,0.16633958498348894,0.06924398012327675,0.09550715613360158,2.3918419058452622,0.4217697728253091,2.5764,2.8,5.2,6.1
+0.842±0.077,16.0±0.0,0.167±0.026,0.059±0.019,0.079±0.023,1.702±0.57,0.377±0.071,2.258±0.425,2.175±0.676,4.293±0.914,5.53±1.21
